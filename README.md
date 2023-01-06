@@ -4,8 +4,8 @@
      
 ## Methods used:   
     
-1: Loading Data sets   
-2: Cleaning the Data sets    
+1: Loading Datasets into a pandas dataframe        
+2: Cleaning the Dataframe        
 3: Building a hypothesis    
 4: Simulating the data to check the hypothesis    
 5: Interpreting the finidings to conclude their statistical and practical significance    
